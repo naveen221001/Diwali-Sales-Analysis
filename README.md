@@ -38,3 +38,6 @@ Enhance customer experience and boost revenue by analyzing Diwali sales data. Th
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/github/license/naveen221001/Diwali-Sales-Analysis)](https://opensource.org/licenses/MIT)
+
