@@ -33,3 +33,8 @@ Enhance customer experience and boost revenue by analyzing Diwali sales data. Th
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/diwali-sales-analysis.git
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
